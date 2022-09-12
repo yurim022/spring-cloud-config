@@ -1,5 +1,5 @@
 token:
-  expiration_time: 86400000 # 60*60*24*1000 하루
+  expiration_time: 8640 # 60*60*24*1000 하루
   secret: yurim-token-spring-config-test
 
 gateway:
