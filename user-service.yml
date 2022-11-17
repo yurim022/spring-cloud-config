@@ -3,4 +3,4 @@ token:
   secret: yurim-token-default
 
 gateway:
-  ip: 192.168.35.2
+  ip: 172.18.0.5
